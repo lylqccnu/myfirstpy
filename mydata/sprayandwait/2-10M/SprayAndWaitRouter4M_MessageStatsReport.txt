@@ -1,0 +1,20 @@
+Message stats for scenario SprayAndWaitRouter4M
+sim_time: 43200.1000
+created: 1463
+started: 38749
+relayed: 15722
+aborted: 23022
+dropped: 15751
+removed: 0
+delivered: 549
+delivery_prob: 0.3753
+response_prob: 0.0000
+overhead_ratio: 27.6375
+latency_avg: 3332.5570
+latency_med: 2085.9000
+hopcount_avg: 3.0856
+hopcount_med: 3
+buffertime_avg: 1928.4054
+buffertime_med: 1233.7000
+rtt_avg: NaN
+rtt_med: NaN

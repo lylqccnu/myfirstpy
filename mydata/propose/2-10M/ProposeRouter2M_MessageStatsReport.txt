@@ -1,0 +1,20 @@
+Message stats for scenario ProposeRouter2M
+sim_time: 43200.1000
+created: 1463
+started: 5320
+relayed: 1653
+aborted: 3666
+dropped: 2590
+removed: 0
+delivered: 246
+delivery_prob: 0.1681
+response_prob: 0.0000
+overhead_ratio: 5.7195
+latency_avg: 3020.9927
+latency_med: 1825.9000
+hopcount_avg: 1.5163
+hopcount_med: 2
+buffertime_avg: 3335.2888
+buffertime_med: 2366.2000
+rtt_avg: NaN
+rtt_med: NaN
